@@ -63,7 +63,7 @@
         "react-instantsearch-dom": "^6.12.1",
         "react-modal": "^3.14.3",
         "react-responsive-carousel": "^3.2.20",
-        "tocbot": "^4.13.1"
+        "tocbot": "^4.13.4"
     },
     "keywords": [
         "gatsby",
